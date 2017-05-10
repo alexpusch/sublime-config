@@ -1,0 +1,39 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoFileName",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"Case Conversion",
+		"ChangeQuotes",
+		"Color Highlighter",
+		"Elixir",
+		"ElixirSublime",
+		"ESLint-Formatter",
+		"Git",
+		"GitGutter",
+		"Jade",
+		"JSX",
+		"LESS",
+		"Local History",
+		"Markdown Preview",
+		"Material Theme",
+		"MaxPane",
+		"Package Control",
+		"PlainTasks",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"Sublime Bookmarks",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-elixirc",
+		"SublimeLinter-contrib-eslint",
+		"SyncedSideBar",
+		"Themr"
+	]
+}

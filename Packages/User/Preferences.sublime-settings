@@ -1,0 +1,68 @@
+{
+	"always_show_minimap_viewport": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"env":
+	{
+		"PATH": "/usr/local/bin:/usr/local/bin/elixir:/usr/local/bin/eslint"
+	},
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace",
+		"*.beam"
+	],
+	"find_selected_text": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules",
+		"backoffice/public/",
+		"data-migrations/src/migrations/migrate_childnodes"
+	],
+	"font_size": 12,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"remember_full_screen": true,
+	"rulers":
+	[
+		120
+	],
+	"show_full_path": true,
+	"show_tab_close_buttons": false,
+	"spell_check": true,
+	"tab_size": 2,
+	"theme": "Material-Theme.sublime-theme",
+	"tooltips": true,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"wrap_width": 100
+}

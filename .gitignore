@@ -1,0 +1,10 @@
+*
+
+!Packages/User/
+!.gitignore
+!Preferences.sublime-settings
+!Package Control.sublime-settings
+!Packages
+!Packages/User
+!Packages/User/Package Control.sublime-settings
+
