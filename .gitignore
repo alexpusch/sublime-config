@@ -6,5 +6,7 @@
 !Package Control.sublime-settings
 !Packages
 !Packages/User
-!Packages/User/Package Control.sublime-settings
-
+!*.sublime-settings
+!*.sublime-keymap
+!*.sublime-snippet
+!*.sublime-macro
